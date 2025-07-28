@@ -1,0 +1,5 @@
+/home/mest/.local/share/JetBrains/Toolbox/apps/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/mest/.local/share/JetBrains/Toolbox/apps/clion/bin/ninja/linux/x64/ninja -G Ninja -S /home/mest/Documents/Epitech/Tek2/Zappy/B-YEP-400-MPL-4-1-zappy-thomas.janiaut/gui -B /home/mest/Documents/Epitech/Tek2/Zappy/B-YEP-400-MPL-4-1-zappy-thomas.janiaut/gui/cmake-build-debug
+-- Found SFML 2.6.1 in /usr/lib/cmake/SFML
+-- Configuring done (0.0s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/mest/Documents/Epitech/Tek2/Zappy/B-YEP-400-MPL-4-1-zappy-thomas.janiaut/gui/cmake-build-debug

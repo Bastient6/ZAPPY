@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "gui",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "gui::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-gui-Debug-ba58e71a69a1ea8839e4.json",
+					"name" : "gui",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/mest/Documents/Epitech/Tek2/Zappy/B-YEP-400-MPL-4-1-zappy-thomas.janiaut/gui/cmake-build-debug",
+		"source" : "/home/mest/Documents/Epitech/Tek2/Zappy/B-YEP-400-MPL-4-1-zappy-thomas.janiaut/gui"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
